@@ -1,13 +1,13 @@
 {
-  "name": "Eleventy Duo",
-  "description": "Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.",
-  "url": "https://eleventyduo.netlify.app",
+  "name": "Walk The Camino",
+  "description": "Walking a stage of the camino in 2022",
+  "url": "https://funny-banoffee-571e26.netlify.app",
   "author": {
-    "name": "Author Name",
-    "email": "author@site.com",
+    "name": "Heffo",
+    "email": "travel@heffo.biz",
     "twitterHandle": "author_handle"
   },
-  "defaultSocialImage": "/images/default-social-image.png",
+  "defaultSocialImage": "/images/Five-SocialMediaBulb-2.jpeg",
   "headerLinks": [
     {
       "text": "Blog",
@@ -21,23 +21,13 @@
     }
   ],
   "socialLinks": [
-    {
-      "text": "Instagram",
-      "url": "https://instagram.com/",
-      "external": true
-    },
-    {
-      "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
-      "external": true
-    },
-    {
-      "text": "Twitter",
-      "url": "https://twitter.com/",
-      "external": true
-    }
   ],
   "footerLinks": [
+    {
+      "text": "Twitter",
+      "url": "https://twitter.com/heffo/",
+      "external": true
+    },
     {
       "text": "RSS",
       "url": "/feed.xml",

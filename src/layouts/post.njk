@@ -1,5 +1,5 @@
 ---
-layout: base.njk
+layout: base
 ---
 
 <article class="post">
@@ -25,6 +25,16 @@ layout: base.njk
         <a href="{{ tagUrl | url }}">#{{ tag }}</a>
       {% endfor %}
     </div>
+
+    <div id="hyvor-talk-view"></div>
+    <script type="text/javascript">
+        var HYVOR_TALK_WEBSITE = 6841;
+        var HYVOR_TALK_CONFIG = {
+            url: false,
+            id: false
+        };
+    </script>
+    <script async type="text/javascript" src="//talk.hyvor.com/web-api/embed.js"></script>
 
     <nav class="post__pagination">
       {%- set nextPost = collections.posts | getNextCollectionItem(page) %}

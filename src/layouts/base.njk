@@ -53,6 +53,14 @@
       <script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
       <script>mermaid.initialize({startOnLoad:true});</script>
     {# Add mermaid -- end #}
+
+<!-- Panelbear -->
+<script async src="https://cdn.panelbear.com/analytics.js?site=EyT4eAj9UZX"></script>
+<script>
+    window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
+    panelbear('config', { site: 'EyT4eAj9UZX' });
+</script>
+
   </head>
   <body>
     <div class="layout-wrapper">
@@ -131,11 +139,10 @@
           </ul>
 
           {% if site.showFooterAttribution %}
-            <p class="footer__attribution">
-          Created by
-      <a href="https://twitter.com/yinkakun" target="_blank" rel="noopener">Yinka,</a>
-       Powered by <a href="https://www.11ty.dev" target="_blank" rel="noopener">11ty,</a>
-        Checkout <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener noreferrer">project's github repo </a>
+            <p class="footer__attribution">   
+            &copy; {{ helpers.currentYear() }} Walk the Camino
+            <span> | </span>
+            Powered by <a href="https://www.11ty.dev" target="_blank" rel="noopener">11ty</a>
             </p>
           {% endif %}
 

@@ -14,6 +14,10 @@
   color: rgb(117, 117, 117);
 }
 
+.tags a:hover {
+  color: var(--accent);
+}
+
 .post-list__wrapper {
   margin-top: 6rem;
 }

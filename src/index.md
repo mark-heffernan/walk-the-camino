@@ -1,8 +1,9 @@
 ---
 layout: home
-title: 'Eleventy Duo'
+title: 'Homepage'
 ---
 
-# Hello World
+# A travel blog... 
 
-Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs. Checkout the [project's github repo](https://github.com/yinkakun/eleventy-duo) for more info.
+to journal my experiences of walking a stage of the Camino de Santiago in 2022.
+

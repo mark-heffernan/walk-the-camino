@@ -1,14 +1,16 @@
 ---
-title: About Aidan Charles Powell
+title: About Me
 layout: about.njk
-name: Aidan Charles Powell
-image: '/images/me.jpeg'
+name: Heffo
+image: '/images/me_Sydney.JPG'
 ---
 
-Aidan Charles Powell is a 23-year-old health centre receptionist who enjoys watching television, eating out and social media. He is generous and giving, but can also be very rude and a bit lazy.
+Howdy! I’m {{ name }}, a global traveller who is eager to get back out there and travel the world again.
 
-He is a Jedi who defines himself as straight. He has a degree in medicine. He is a vegetarian. He is obsessed with vintage dresses.
+Plan A is to walk a stage of the Camino de Santiago this year (2022). I hope to use this blog as a way to record each day’s walking by uploading photos and recording any worthwhile experiences I encounter along the way.
 
-He grew up in a middle class neighbourhood. After his mother died when he was young, he was raised by his father
+I'm testing a comment platform called Hyvor Talk on this blog. This platform has built-in tech to stop comment spam. If you prefer to go old school, send an email to [travel@heffo.biz](mailto:travel@heffo.biz) to say hello and get in touch.
 
-He is currently married to Maureen Erika Quinn. Maureen is 13 years older than him and works as a sales assistant.
+I'm using this website to learn some web development technologies like headless [WordPress](https://wordpress.org/), [Github](https://github.com/), [Nunjucks](https://mozilla.github.io/nunjucks/), and static sites deployed on [Netlify](https://netlify.com/), [11ty](https://www.11ty.dev/) and [Forestry](https://forestry.io/).
+
+Lastly, this website uses the Eleventy Duo theme. If you'd like to use this Eleventy theme for your personal blogs checkout the <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener noreferrer">project's github repo</a>.
