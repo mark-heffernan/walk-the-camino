@@ -4,7 +4,7 @@ description: The countdown has started
 author: heffo
 permalink: posts/{{ title | slug }}/index.html
 date: '2022-04-14'
-tags: [post, travel, camino, walking, image]
+tags: [post, travel, camino, walking, image, sticky]
 ---
 
 ![camino-del-norte](/images/iStock-842606444.webp)
