@@ -6,6 +6,16 @@ Eleventy Duo is a minimal and beautiful Eleventy theme for personal blogs.
 
 ### [Live demo](https://eleventyduo.netlify.app)
 
+## Issues
+
+On the first run of `yarn dev` an error is thrown up in the file `node_modules/postcss/package.json`. To fix this at line 14 I replaced 
+
+`"./": "./"` 
+
+with
+
+`"./package.json": "./package.json"`
+
 ## Features
 
 - Fully responsive
