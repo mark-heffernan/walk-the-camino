@@ -16,8 +16,8 @@ eleventyComputed:
   title: "{{ tag | title }}"
   description: "All posts tagged “{{ tag }}”"
 ---
-<h1>{{ tag | title }}</h1> <a href="/blog" title="Whatever I said, whatever I did I didn't mean it
-I just want you back for good..."><span>←</span>&nbsp;<span>Back for good</span></a>
+<h1>{{ tag | title }}</h1><a href="/blog" title="Whatever I said, whatever I did I didn't mean it
+I just want you back for good..."><span>←</span><span>Back (for good)</span></a>
 
 {% set postslist = collections[tag] %}
 {% include "posts-list.njk" %}

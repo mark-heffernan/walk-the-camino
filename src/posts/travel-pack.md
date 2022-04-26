@@ -2,7 +2,7 @@
 title: Travel Pack
 description: 
 permalink: posts/{{ title | slug }}/index.html
-date: '2022-04-25'
+date: 2022-04-25
 tags: [post, travel, camino, sea shell, image, sticky]
 ---
 

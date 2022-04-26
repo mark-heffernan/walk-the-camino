@@ -2,8 +2,8 @@
 title: New Backpack
 description: New backpack for trip 
 permalink: posts/{{ title | slug }}/index.html
-date: '2021-07-19'
-tags: [post, backpack, camino, luggage]
+date: 2021-07-19
+tags: [post, camino, kit]
 ---
 
 The internet is a great tool for researching everything and anything and especially great for anything related to walking/hiking backpacks, hiking boots, waterproofs... you name it!

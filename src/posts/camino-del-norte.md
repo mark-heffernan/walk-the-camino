@@ -2,7 +2,7 @@
 title: Camino del Norte
 description: 
 permalink: posts/{{ title | slug }}/index.html
-date: '2022-04-06'
+date: 2022-04-06
 tags: [post, travel, camino, walking, image, sticky]
 ---
 
