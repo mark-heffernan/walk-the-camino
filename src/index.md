@@ -1,6 +1,6 @@
 ---
-layout: home
-title: 'Homepage'
+layout: home.njk
+title: Home
 ---
 
 # A travel blog... 

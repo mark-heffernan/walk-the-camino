@@ -10,13 +10,18 @@
   "defaultSocialImage": "/images/Five-SocialMediaBulb-2.jpeg",
   "headerLinks": [
     {
+      "text": "About",
+      "url": "/about",
+      "external": false
+    },
+    {
       "text": "Blog",
       "url": "/blog",
       "external": false
     },
     {
-      "text": "About",
-      "url": "/about",
+      "text": "Contact",
+      "url": "/contact",
       "external": false
     }
   ],

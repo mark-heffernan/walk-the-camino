@@ -7,8 +7,9 @@
 
     {% bundledcss %}
 
+    <link rel="stylesheet" href="/new-css/form.css" />
     <link rel="preconnect" href="https://fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap">
 
     <title>
       {{  title  | escape }}
@@ -139,13 +140,7 @@
           </ul>
 
           {% if site.showFooterAttribution %}
-            <p class="footer__attribution">   
-            &copy; {{ helpers.currentYear() }} Walk the Camino
-            <span> | </span>
-            Powered by <a href="https://www.11ty.dev" target="_blank" rel="noopener">11ty</a>
-            <span> | </span>
-            Icons created by Freepik & Smashicons - <a href="https://www.flaticon.com/free-icons/tag" title="tag icons">Flaticon</a>
-            </p>
+            {% include "credits.njk" %}
           {% endif %}
 
         </div>

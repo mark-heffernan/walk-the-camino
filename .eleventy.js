@@ -28,6 +28,9 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(syntaxHighlight);
 
+  eleventyConfig.addWatchTarget("./src/css/");
+  eleventyConfig.addWatchTarget("./src/new-css/");
+
   // setup mermaid markdown highlighter
   const highlighter = eleventyConfig.markdownHighlighter;
   eleventyConfig.addMarkdownHighlighter((str, language) => {
@@ -39,6 +42,8 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.addPassthroughCopy({ 'src/images': 'images' });
+  eleventyConfig.addPassthroughCopy({ 'src/new-css': 'new-css' });
+
   eleventyConfig.setBrowserSyncConfig({ files: [manifestPath] });
 
   eleventyConfig.addShortcode('bundledcss', function () {
