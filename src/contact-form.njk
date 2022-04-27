@@ -4,7 +4,7 @@ permalink: /contact/
 title: Contact
 ---
 
-<form name="contact" method="post" data-netlify="true">
+<form name="contact" method="post" netlify-honeypot="bot-field" data-netlify="true">
     <div class="container">
       <div class="screen">
         <div class="screen-header">
@@ -30,13 +30,16 @@ title: Contact
           <div class="screen-body-item">
             <div class="app-form">
               <div class="app-form-group">
-                <input class="app-form-control" placeholder="NAME" required>
+                <label for="bot-field">Don't fill this out if you're human:<input class="app-form-control" name="bot-field"></label>
               </div>
               <div class="app-form-group">
-                <input class="app-form-control" placeholder="EMAIL" required>
+                <input class="app-form-control" name="Name" placeholder="NAME" required>
+              </div>
+              <div class="app-form-group">
+                <input class="app-form-control" name="Email" placeholder="EMAIL" required>
               </div>
               <div class="app-form-group message">
-                <input class="app-form-control" placeholder="MESSAGE" required>
+                <input class="app-form-control" name="Message" placeholder="MESSAGE" required>
               </div>
               <div class="app-form-group buttons">
                 <button class="app-form-button">SEND</button>

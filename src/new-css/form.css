@@ -187,3 +187,6 @@
     padding: 0;
   }
 }
+label[for=bot-field] {
+  display: none;
+}
