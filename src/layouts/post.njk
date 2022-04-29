@@ -1,5 +1,5 @@
 ---
-layout: base
+layout: base.njk
 ---
 
 <article class="post">
@@ -16,7 +16,7 @@ layout: base
 
   <main class="post__content">
     {{ content | safe }}
-  </main>
+  </main> 
 
   <aside class="post__aside">
     <div class="post__tags">
@@ -25,6 +25,12 @@ layout: base
         <a href="{{ tagUrl | url }}">#{{ tag }}</a>
       {% endfor %}
     </div>
+
+   {% set js %}
+      {% include "utterance.js" %}   
+   {% endset %}
+     
+   {{ js | safe }}
 
     <nav class="post__pagination">
       {%- set nextPost = collections.posts | getNextCollectionItem(page) %}

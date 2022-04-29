@@ -13,4 +13,4 @@ If you would like to get in touch go old school and send an email to [travel@hef
 
 I'm using this website to learn some web development technologies like headless [WordPress](https://wordpress.org/), [GitHub](https://github.com/), [Nunjucks](https://mozilla.github.io/nunjucks/), and static sites deployed on [Netlify](https://netlify.com/), [11ty](https://www.11ty.dev/) and [Forestry](https://forestry.io/).
 
-Lastly, this website uses the Eleventy Duo theme. If you'd like to use this Eleventy theme for your personal blogs checkout the <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener noreferrer">project's github repo</a>.
+Lastly, this website uses the Eleventy Duo theme. If you'd like to use this Eleventy theme for your personal blogs checkout the <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener noreferrer">project's GitHub repo</a>.
