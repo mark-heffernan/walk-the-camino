@@ -4,11 +4,11 @@ My travel blog based on the Eleventy Duo theme, a minimal and beautiful Eleventy
 
 ![demo site screenshot](./screenshot.png)
 
-### [Live demo](https://eleventyduo.netlify.app)
+## [Live demo of theme](https://eleventyduo.netlify.app)
 
-### [GitHub Repo](https://github.com/yinkakun/eleventy-duo)
+## [GitHub Repo of theme](https://github.com/yinkakun/eleventy-duo)
 
-Big thanks to the developer [Yinkakun](https://github.com/yinkakun/) for developing this theme to be used for personal blogs. Check out their work at [yinkakun.vercel.app/](https://yinkakun.vercel.app/). 
+Big thanks to the developer [Yinkakun](https://github.com/yinkakun/) for developing this theme to be used for personal blogs. Check out their work at [yinkakun.vercel.app](https://yinkakun.vercel.app/). 
 
 ## Issues
 
@@ -23,7 +23,7 @@ with
 ## Disclaimer
 
 Although this repo is set to public, the repo is not for cloning. It's only set to public so I can use GitHub Issues for blog comments.
-If you'd like to use Yinkakun's Eleventy Duo theme for your own blog please clone this [repo]((https://github.com/yinkakun/eleventy-duo)). Thank you.  
+If you'd like to use Yinkakun's Eleventy Duo theme for your own blog please clone this [repo](https://github.com/yinkakun/eleventy-duo). Thank you.  
 
 ## License
 

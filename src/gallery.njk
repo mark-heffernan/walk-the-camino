@@ -1,0 +1,25 @@
+---
+layout: base.njk
+permalink: /gallery/
+title: Gallery
+---
+
+<h1>Gallery</h1>
+
+<h3>This is a gallery of all the photos taken on the big trip so far!</h3>
+
+{% set length = collections.gallery.length %}
+{% if length != 0 %}
+    <div class="wrapper">
+        <ul class="auto-grid">
+        {% for image in collections.gallery %}
+            {% set i = loop.index %}  
+            <li class="li">
+                <a href="/gallery/{{ image.name }}"><img src="/gallery/{{ image.name }}" alt="{{ image.name }}" />{{ image.name }}</a>
+            </li>    
+        {% endfor %}
+        </ul>
+    </div>
+{% else %}
+    <h3>Nothing to display at the moment.</h3>    
+{% endif %}

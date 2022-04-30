@@ -11,8 +11,10 @@ Plan A is to walk a stage of the Camino de Santiago this year (2022). I hope to 
 
 If you would like to get in touch go old school and send an email to [travel@heffo.biz](mailto:travel@heffo.biz) to say hello. Or use the [Contact](/contact) form.
 
-I'm using this website to learn some web development technologies like headless [WordPress](https://wordpress.org/), [GitHub](https://github.com/), [Nunjucks](https://mozilla.github.io/nunjucks/), [11ty](https://www.11ty.dev/) and static sites deployed on [Netlify](https://netlify.com/) and [Forestry](https://forestry.io/).
+### Technology
 
-For the blog comments I'm using GitHub Issues with the [Utterances](https://utteranc.es/) app. To post a comment you'll need a login to [GitHub](https://github.com/). If you haven't heard of GitHub this [Medium article - What is GitHub?](https://medium.com/swlh/what-is-github-423f9049ab2d) gives a brief explanation. Logging in helps prevent comment spam. 
+I'm using this website to learn some web development technologies like headless [WordPress](https://wordpress.org/), [GitHub](https://github.com/), [Nunjucks](https://mozilla.github.io/nunjucks/), [11ty](https://www.11ty.dev/) and static sites deployed on [Netlify](https://netlify.com/) and a CMS called [Forestry](https://forestry.io/).
+
+For the blog comments, I'm using GitHub Issues with the [Utterances](https://utteranc.es/) app. To post a comment you'll need to sign in with [GitHub](https://github.com/) or create a new account. If you haven't heard of GitHub this [Medium article - What is GitHub?](https://medium.com/swlh/what-is-github-423f9049ab2d) gives a brief explanation. Using GitHub's authentication allows this blog to prevent comment spam. If you'd rather not create a GitHub account that's fine.
 
 Lastly, this website uses the Eleventy Duo theme. If you'd like to use this Eleventy theme for your personal blogs checkout the <a href="https://github.com/yinkakun/eleventy-duo" target="_blank" rel="noopener noreferrer">project's GitHub repo</a>.

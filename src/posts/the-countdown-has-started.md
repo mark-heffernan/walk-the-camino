@@ -7,6 +7,6 @@ date: 2022-04-14
 tags: [post, travel, camino, walking, image, sticky]
 ---
 
-![camino-del-norte](/images/iStock-842606444.webp)
+![The Camino de Santiago. Photo © MarBom/iStock](/images/iStock-842606444.webp)
 
 My walk is locked in and in a month, I'll start my first day of walking! 

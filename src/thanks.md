@@ -3,7 +3,7 @@ title: Thanks!
 layout: base.njk
 ---
 
-# Thanks. Aren't you lovely.
+# Thanks!
 
 Your contact submission is now with us.
 

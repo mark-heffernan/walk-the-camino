@@ -6,6 +6,11 @@ const htmlmin = require('html-minifier')
 const fs = require('fs');
 const path = require('path');
 
+// for image gallery
+const fg = require("fast-glob");
+const galleryPhotos = fg.sync('src/gallery/*.{jpeg,jpg,webp}', { objectMode: true });
+// end
+
 const isDev = process.env.ELEVENTY_ENV === 'development';
 const isProd = process.env.ELEVENTY_ENV === 'production'
 
@@ -24,6 +29,12 @@ const manifest = isDev
   : JSON.parse(fs.readFileSync(manifestPath, { encoding: 'utf8' }));
 
 module.exports = function (eleventyConfig) {
+
+  // image gallery
+  eleventyConfig.addCollection('gallery', function(collection) {
+      return galleryPhotos;
+  });
+
   eleventyConfig.addPlugin(readingTime);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(syntaxHighlight);
@@ -43,6 +54,8 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.setDataDeepMerge(true);
   eleventyConfig.addPassthroughCopy({ 'src/images': 'images' });
   eleventyConfig.addPassthroughCopy({ 'src/new-css': 'new-css' });
+  eleventyConfig.addPassthroughCopy({ 'src/gallery': 'gallery' });
+
 
   eleventyConfig.setBrowserSyncConfig({ files: [manifestPath] });
 
