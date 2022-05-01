@@ -10,16 +10,17 @@ title: Gallery
 
 {% set length = collections.gallery.length %}
 {% if length != 0 %}
-    <div class="wrapper">
-        <ul class="auto-grid">
+    <div class="masonry">
         {% for image in collections.gallery %}
-            {% set i = loop.index %}  
-            <li class="li">
-                <a href="/gallery/{{ image.name }}"><img src="/gallery/{{ image.name }}" alt="{{ image.name }}" />{{ image.name }}</a>
-            </li>    
+            {% set i = loop.index %}
+              <div class="brick">
+                <figure>
+                    <a href="/gallery/{{ image.name }}"><img src="/gallery/{{ image.name }}" alt="{{ image.name }}" /></a>
+                    <figcaption>
+                        {{ image.name }}
+                    </figcaption>
+                </figure>
+              </div>
         {% endfor %}
-        </ul>
     </div>
-{% else %}
-    <h3>Nothing to display at the moment.</h3>    
 {% endif %}
