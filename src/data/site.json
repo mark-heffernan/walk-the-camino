@@ -28,6 +28,11 @@
       "text": "Gallery",
       "url": "/gallery",
       "external": false
+    },
+    {
+      "text": "Privacy",
+      "url": "/privacy",
+      "external": false
     }
   ],
   "socialLinks": [

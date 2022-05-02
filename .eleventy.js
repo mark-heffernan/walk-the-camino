@@ -8,7 +8,7 @@ const path = require('path');
 
 // for image gallery
 const fg = require("fast-glob");
-const galleryPhotos = fg.sync('src/gallery/*.{jpeg,jpg,webp}', { objectMode: true });
+const galleryPhotos = fg.sync('src/gallery/*.{jpeg,jpg,png,webp}', { objectMode: true });
 // end
 
 const isDev = process.env.ELEVENTY_ENV === 'development';

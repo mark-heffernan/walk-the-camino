@@ -4,7 +4,7 @@ permalink: /privacy/
 title: Privacy
 ---
 
-# Privacy Policy
+# Privacy
 
 Our website address is: https://walkthecamino.travel
 

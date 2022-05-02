@@ -56,12 +56,15 @@
       <script>mermaid.initialize({startOnLoad:true});</script>
     {# Add mermaid -- end #}
 
-<!-- Panelbear -->
-<script async src="https://cdn.panelbear.com/analytics.js?site=EyT4eAj9UZX"></script>
-<script>
-    window.panelbear = window.panelbear || function() { (window.panelbear.q = window.panelbear.q || []).push(arguments); };
-    panelbear('config', { site: 'EyT4eAj9UZX' });
-</script>
+{% set panelbear %}
+  {% include "panelbear.js" %}
+{% endset %}
+{{ panelbear | safe }}
+
+{% set iubenda %}
+  {% include "iubenda.js" %}
+{% endset %}
+{{ iubenda | safe }}
 
   </head>
   <body>
