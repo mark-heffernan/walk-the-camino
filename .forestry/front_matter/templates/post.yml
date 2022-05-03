@@ -8,6 +8,11 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: image
+  type: file
+  config:
+    maxSize: 64
+  label: Image
 - type: list
   name: tags
   label: tags
@@ -19,5 +24,3 @@ fields:
   label: Permalink
   default: posts/{{ title | slug }}/index.html
   hidden: true
-pages:
-- src/posts/testing-cms-post.md
