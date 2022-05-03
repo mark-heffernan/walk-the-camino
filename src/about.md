@@ -13,7 +13,7 @@ If you would like to get in touch you have a couple of options:
 
 + You can leave a [comment](#comments) on a post
 + Go old school and send an email to [travel@heffo.biz](mailto:travel@heffo.biz)
-+ Or use our Contact form [here](/contact)
++ Or use our contact form [here](/contact)
 
 ### Technology
 
