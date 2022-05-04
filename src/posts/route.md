@@ -4,11 +4,11 @@ description: Route
 permalink: posts/{{ title | slug }}/index.html
 date: 2022-05-04
 tags:
-- sticky
 - post
 - camino
 - route
 - walking
+- sticky
 
 ---
 This is the walking route I'll be taking. Getting ever so close now!
