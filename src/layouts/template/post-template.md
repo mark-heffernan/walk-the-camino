@@ -9,7 +9,9 @@ tags: [post]
 <!---
 Uses the post.njk layout. Peruse settings in post.json.
 Copy this .md into the posts folder to create a new blog post. Delete all comments before posting.
+wWrap tags <Excerpt Start> and <Excerpt End> around the excerpt of text you want to display in the posts list. 
 --->
+
 
 <!--- Example image placeholder
 

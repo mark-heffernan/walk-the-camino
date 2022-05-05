@@ -5,8 +5,9 @@ permalink: posts/{{ title | slug }}/index.html
 date: 2021-07-19
 tags: [post, camino, kit]
 ---
-
+<!-- Excerpt Start -->
 The internet is a great tool for researching everything and anything and especially great for anything related to walking/hiking backpacks, hiking boots, waterproofs... you name it!
+<!-- Excerpt End -->
 
 After an evening of research, I decided to go with a [Deuter Futura 32](https://www.deuter.com/ie-en/shop/backpacks/p225472-hiking-backpack-futura-32) backpack. I used a new website I came across in my research [bergfreunde.eu](https://www.bergfreunde.eu) to purchase the backpack.
 
