@@ -24,7 +24,7 @@
         </div>
       </div>
 
-      <p class="post-list__excerpt">{{ post.templateContent | excerpt | safe  }}</p>
+      {% excerpt post %}
 
       <a class="post-list__read-more" href="{{ post.url }}">continue reading...</a>
     </li>
