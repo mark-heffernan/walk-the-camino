@@ -69,3 +69,23 @@
     margin: 0;
     color: #666;
     }
+
+  .featured_posts {
+      display: inline-block;
+      position: relative;
+      margin-bottom: .1875rem;
+      margin-left: .5rem;
+      padding: .0625rem .75rem;
+      border-radius: 0 .5rem .5rem;
+      background: #dffe83;
+  }
+
+  .sticky_posts {
+    display: inline-block;
+    position: relative;
+    margin-bottom: .1875rem;
+    margin-left: .5rem;
+    padding: .0625rem .75rem;
+    border-radius: 0 .5rem .5rem;
+    background: #eee;
+}
