@@ -6,21 +6,22 @@ title: Gallery
 
 <h1>Gallery</h1>
 
-<h3>This is a gallery of all the photos taken on the big trip so far!</h3>
-
 {% set length = collections.gallery.length %}
-{% if length != 0 %}
-    <div class="masonry">
-        {% for image in collections.gallery %}
-            {% set i = loop.index %}
-              <div class="brick">
-                <figure>
-                    <a href="/images/{{ image.name }}"><img src="/images/{{ image.name }}" alt="{{ image.name }}" /></a>
-                    <figcaption>
-                        {{ image.name }}
-                    </figcaption>
-                </figure>
-              </div>
-        {% endfor %}
-    </div>
-{% endif %}
+    {% if length != 0 %}
+        <h3>This is a gallery of all the photos taken on the big trip so far!</h3>
+        <div class="masonry">
+            {% for image in collections.gallery %}
+                {% set i = loop.index %}
+                <div class="brick">
+                    <figure>
+                        <a href="/images/{{ image.name }}"><img src="/images/{{ image.name }}" alt="{{ image.name }}" /></a>
+                        <figcaption>
+                            {{ image.name }}
+                        </figcaption>
+                    </figure>
+                </div>
+            {% endfor %}
+        </div>
+    {% else %}
+        <h3>Coming soon!</h3>    
+    {% endif %}
