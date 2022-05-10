@@ -33,5 +33,3 @@ fields:
   label: Permalink
   default: posts/{{ title | slug }}/index.html
   hidden: true
-pages:
-- src/posts/testing-cms-posting.md
