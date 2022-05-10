@@ -8,6 +8,11 @@ fields:
 - type: datetime
   name: date
   label: date
+  hidden: false
+  config:
+    date_format: DD.MM.YYYY
+    time_format: kk:mm
+    display_utc: false
 - name: image
   type: file
   config:
