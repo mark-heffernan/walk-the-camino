@@ -13,6 +13,8 @@ fields:
   hidden: false
   config:
     required: true
+    date_format: DD/MM/YYYY
+    time_format: h:mm
 - name: image
   type: file
   config:
@@ -25,7 +27,7 @@ fields:
   name: description
   label: description
   config:
-    required: true
+    required: false
 - name: permalink
   type: text
   label: Permalink
