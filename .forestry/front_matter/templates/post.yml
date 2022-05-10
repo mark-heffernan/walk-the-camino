@@ -13,7 +13,7 @@ fields:
   hidden: false
   config:
     date_format: DD.MM.YYYY
-    time_format: LT 
+    time_format: LT
     display_utc: false
     required: true
 - name: image
@@ -34,3 +34,5 @@ fields:
   label: Permalink
   default: posts/{{ title | slug }}/index.html
   hidden: true
+pages:
+- src/posts/test-post.md
