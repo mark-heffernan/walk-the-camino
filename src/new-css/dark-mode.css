@@ -1,0 +1,21 @@
+/* 1. Create global variables for text and background color */
+:root {
+    --color-text: black;
+    --color-background: white;
+  }
+  
+  /* 2. Add conditional styling for dark mode preference */
+  @media (prefers-color-scheme: dark) {
+    /* Re-assign previous variables */
+    :root {
+      --color-text: white; /* black => white */
+      --color-background: black; /* white => black */
+    }
+  }
+  
+  /* 3. Assign variables to page color and background */
+  body, h1, h2, h3, h4, h5, h6, .site-title a, .post-list__title a, .featured_posts {
+    color: var(--color-text);
+    background-color: var(--color-background);
+  }
+  
