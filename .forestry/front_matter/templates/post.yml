@@ -13,7 +13,7 @@ fields:
   hidden: false
   config:
     date_format: DD.MM.YYYY
-    time_format: kk:mm
+    time_format: LT 
     display_utc: false
     required: true
 - name: image
