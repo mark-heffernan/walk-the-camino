@@ -5,6 +5,8 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
@@ -13,6 +15,7 @@ fields:
     date_format: DD.MM.YYYY
     time_format: kk:mm
     display_utc: false
+    required: true
 - name: image
   type: file
   config:
@@ -24,6 +27,8 @@ fields:
 - type: textarea
   name: description
   label: description
+  config:
+    required: true
 - name: permalink
   type: text
   label: Permalink
