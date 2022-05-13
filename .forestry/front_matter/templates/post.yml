@@ -34,4 +34,5 @@ fields:
   default: posts/{{ title | slug }}/index.html
   hidden: true
 pages:
+- src/posts/la-madame.md
 - src/posts/landed.md
