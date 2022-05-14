@@ -4,6 +4,7 @@ title: 'Day 1 '
 date: 2022-05-14T19:00:00+01:00
 image: ''
 tags:
+- sticky
 - orio
 - camino
 - walking
