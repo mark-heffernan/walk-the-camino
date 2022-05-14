@@ -13,7 +13,7 @@ description: Dinner at La Madame
 <!-- Excerpt Start -->
 Tonight I had dinner at a fabulous restaurant called La Madame.
 <!-- Excerpt End -->
-The food was amazing, washed down with a couple of glasses of a local white wine. See images!
+The food was amazing, washed down with a couple of glasses of a local white wine. See images below and link to [menu](http://www.lamadamesansebastian.com/en/).
 
 ![Jumbo Sweet Prawn Ceviche](/images/g-jumbo_sweet_prawn_ceviche.jpg)
 Starter: Jumbo Sweet Prawn Ceviche
@@ -25,4 +25,4 @@ Mains: Grilled Scallops
 Desert: Piña Loca
 
 ![Espresso](/images/g-espresso.jpg)
-To finish: Espresso
+To finish: Espresso!
