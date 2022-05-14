@@ -24,7 +24,7 @@ Start of today’s walk, leaving San Sebastián
 ![g-day-1-leaving-san-sebastian](/images/g-day-1-leaving-san-sebastian.jpg)  
 View looking back at San Sebastián 
 
-![g-day-1-igeldo-trail-1](/images/g-day-1-igelgo-trail-1.jpg)  
+![g-day-1-igeldo-trail-1](/images/g-day-1-igeldo-trail-1.jpg)  
 Looking back up a tricky trail
 
 ![g-day-1-igeldo-trail-2](/images/g-day-1-igeldo-trail-2.jpg)  
