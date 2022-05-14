@@ -34,6 +34,7 @@ fields:
   default: posts/{{ title | slug }}/index.html
   hidden: true
 pages:
+- src/posts/day-1.md
 - src/posts/la-madame.md
 - src/posts/landed.md
 - src/posts/san-sebastian-at-night.md
