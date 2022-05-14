@@ -12,7 +12,9 @@ tags:
 description: Night photos
 
 ---
-<!-- Excerpt Start --> Some night photos taken on the walk back to the hotel at Playa de La Concha. <!-- Excerpt End -->
+<!-- Excerpt Start -->
+Some night photos taken on the walk back to the hotel at Playa de La Concha.
+<!-- Excerpt End -->
 
 ![playa-de-la-concha-1](/images/g-playa-de-la-concha-1.jpg "Playa de La Concha 1")  
 ![playa-de-la-concha-2](/images/g-playa-de-la-concha-2.jpg "Playa de La Concha 2")  
