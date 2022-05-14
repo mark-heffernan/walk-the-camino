@@ -1,28 +1,37 @@
 ---
 permalink: posts/{{ title | slug }}/index.html
 title: 'Day 1 '
-date: 2022-05-13T19:00:00+01:00
+date: 2022-05-14T19:00:00+01:00
 image: ''
 tags:
+- orio
+- camino
+- walking
 - san sebastián
-- food
 - post
-description: Dinner at La Madame
+description: First day of walking
 
 ---
 <!-- Excerpt Start -->
-Tonight I had dinner at a fabulous restaurant called La Madame.
+Today was my first day of walking, from San Sebastián to Orio.
 <!-- Excerpt End -->
-The food was amazing, washed down with a couple of glasses of a local white wine. See images below and link to [menu](http://www.lamadamesansebastian.com/en/).
+Weather was lovely, around 20-21c for a challenging walk up in the mountains, with the highest elevation point walked at 312m. Some tricky paths to negotiate, with some serious ankle breaker trails to manoeuvre. 
+Chuffed to get the 1st day of walking under my belt!
 
-![Jumbo Sweet Prawn Ceviche](/images/g-jumbo_sweet_prawn_ceviche.jpg)
-Starter: Jumbo Sweet Prawn Ceviche
+![g-day-1-first-sign](/images/g-day-1-first-sign.jpg)  
+Start of today’s walk, leaving San Sebastián 
 
-![Grilled Scallops](/images/g-grilled_scallops.jpg)
-Mains: Grilled Scallops
+![g-day-1-leaving-san-sebastian](/images/g-day-1-leaving-san-sebastian.jpg)  
+View looking back at San Sebastián 
 
-![Piña Loca](/images/g-pina_loca.jpg)
-Desert: Piña Loca
+![g-day-1-igeldo-trail-1](/images/g-day-1-igelgo-trail-1.jpg)  
+Looking back up a tricky trail
 
-![Espresso](/images/g-espresso.jpg)
-To finish: Espresso!
+![g-day-1-igeldo-trail-2](/images/g-day-1-igeldo-trail-2.jpg)  
+Same trail, looking down to what’s left to manoeuvre!
+
+![g-day-1-orio-1](/images/g-day-1-orio-1.jpg)  
+View of Orio, beautiful countryside
+
+![g-day-1-orio-2](/images/g-day-1-orio-2.jpg)  
+Same view of Orio, slightly different angle
