@@ -1,28 +1,27 @@
 ---
 permalink: posts/{{ title | slug }}/index.html
 title: Kaia-Kaipe
-date: 2022-05-13T19:00:00+01:00
+date: 2022-05-15T19:00:00+01:00
 image: ''
 tags:
-- san sebastián
+- getaria
 - food
 - post
-description: Dinner at La Madame
+description: Dinner at Kaia-Kaipe
 
 ---
-<!-- Excerpt Start -->
-Tonight I had dinner at a fabulous restaurant called La Madame.
-<!-- Excerpt End -->
-The food was amazing, washed down with a couple of glasses of a local white wine. See images below and link to [menu](http://www.lamadamesansebastian.com/en/).
+<!-- Excerpt Start --> 
+Tonight I had dinner at another fabulous restaurant called Kaia-Kaipe.
+<!-- Excerpt End --> Kaia-Kaipe is a seafood restaurant in Getaria and the food was delish. See images below. The restaurant's website doesn't have an English language option but you can visit it's Michelin guide [page](https://guide.michelin.com/en/pais-vasco/getaria/restaurant/kaia-kaipe) for more info.
 
-![Jumbo Sweet Prawn Ceviche](/images/g-jumbo_sweet_prawn_ceviche.jpg)
-Starter: Jumbo Sweet Prawn Ceviche
+![g-kaia-kaipe-tuna](/images/g-kaia-kaipe-tuna.jpg)  
+Complimentary appetiser: Tuna with red pepper
 
-![Grilled Scallops](/images/g-grilled_scallops.jpg)
-Mains: Grilled Scallops
+![g-kaia-kaipe-scallops](/images/g-kaia-kaipe-scallops.jpg)  
+Starter: Grilled Scallops
 
-![Piña Loca](/images/g-pina_loca.jpg)
-Desert: Piña Loca
+![g-kaia-kaipe-grilled-hake](/images/g-kaia-kaipe-grilled-hake.jpg)  
+Mains: Grilled hake on a bed of roasted potatoes and peppers
 
-![Espresso](/images/g-espresso.jpg)
-To finish: Espresso!
+![g-kaia-kaipe-espresso](/images/g-kaia-kaipe-espresso.jpg)  
+Desert: Espresso with a complimentary threat
