@@ -12,7 +12,8 @@ description: Dinner at Kaia-Kaipe
 ---
 <!-- Excerpt Start --> 
 Tonight I had dinner at another fabulous restaurant called Kaia-Kaipe.
-<!-- Excerpt End --> Kaia-Kaipe is a seafood restaurant in Getaria and the food was delish. See images below. The restaurant's website doesn't have an English language option but you can visit it's Michelin guide [page](https://guide.michelin.com/en/pais-vasco/getaria/restaurant/kaia-kaipe) for more info.
+<!-- Excerpt End --> Kaia-Kaipe is a seafood restaurant in Getaria and the food was delish. See images below. 
+The restaurant's website doesn't have an English language option but you can visit it's Michelin guide page for more [info](https://guide.michelin.com/en/pais-vasco/getaria/restaurant/kaia-kaipe).
 
 ![g-kaia-kaipe-tuna](/images/g-kaia-kaipe-tuna.jpg)  
 Complimentary appetiser: Tuna with red pepper
