@@ -13,6 +13,8 @@ tags:
 description: Fifth day of walking
 
 ---
-<!-- Excerpt Start --> Today would have been my fifth day of walking, from Markina-Xemein to Gernika. <!-- Excerpt End -->
+<!-- Excerpt Start --> 
+Today would have been my fifth day of walking, from Markina-Xemein to Gernika. 
+<!-- Excerpt End -->
 
 As yesterday was a brutal day on the body I’ve taken the executive decision to have a rest day. Phew!
