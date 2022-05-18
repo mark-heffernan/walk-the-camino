@@ -1,20 +1,21 @@
 ---
 permalink: posts/{{ title | slug }}/index.html
 title: Day 3
-date: 2022-05-15T20:00:00+01:00
+date: 2022-05-16T20:00:00+01:00
 image: ''
 tags:
+- deba
 - getaria
 - sticky
-- orio
 - camino
 - walking
 - post
-description: Second day of walking
+description: Third day of walking
 
 ---
 <!-- Excerpt Start -->
-Today was my second day of walking, from Orio to Getaria. 
+Today was my third day of walking, from Getaria to Deba. 
 <!-- Excerpt End --> 
-Weather was lovely but a lot hotter then yesterday with high of 29c. Not as challenging as the first day’s walk with the highest elevation point walked at 90m. Distance walked approx. 11km.   
-I’ll upload some photos of today’s walk later… broadband a bit patchy here at the moment.
+Weather was lovely and still hot for this time of year. Very challenging as elevation points are getting higher with the highest point today 614m. Thankfully I met a lovely American couple on the trail who helped me get through this walk.  Distance walked approx. 17.5km.
+
+I’m going to hold off uploading photos of the walks until I have better broadband/connectivity.
