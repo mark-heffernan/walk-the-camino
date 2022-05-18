@@ -36,6 +36,7 @@ fields:
 pages:
 - src/posts/day-1.md
 - src/posts/day-2.md
+- src/posts/day-3.md
 - src/posts/kaia-kaipe.md
 - src/posts/la-madame.md
 - src/posts/landed.md
