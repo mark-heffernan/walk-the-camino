@@ -17,6 +17,6 @@ description: Fourth day of walking
 Today was my fourth day of walking, from Deba to Markina-Xemein. 
 <!-- Excerpt End --> 
 
-Weather was lovely but brutal as the heat never let up today. Hardest day’s walking so far as to get to Markina-Xemein we had to ‘climb’ Mount Arno. Again thankfully the lovely American couple helped me get through this walk along with some lovely Irish folk I met on the trail. Distance walked approx. 24km.
+Weather was lovely but brutal as the heat never let up today. Hardest day’s walking so far as to get to Markina-Xemein we had to ‘climb’ Mount Arno. Again thankfully the lovely American couple helped me get through this walk along with some lovely Irish folk I met on the trail. Distance walked approx. 24km. Elevation approx. 620km. 
 
 I’m going to hold off uploading photos of the walks until I have better broadband/connectivity.
