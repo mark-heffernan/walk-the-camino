@@ -21,8 +21,11 @@ See images below.
 
 Great value and the food was lovely. 
 
-![g-day-5-ensalada-de-tomate-con-bonito-y-cebolla](/images/g-day-5-ensalada-de-tomate-con-bonito-y-cebolla.jpg)  
+![g-day-5-pablo-picasso-street](/images/g-day-5-pablo-picasso-street.jpg)  
+To get to the restaurant I walked down Pablo Picasso street
+
+![g-julen-ensalada-de-tomate-con-bonito-y-cebolla](/images/g-julen-ensalada-de-tomate-con-bonito-y-cebolla.jpg)  
 First course: Ensalada de Tomate con Bonito y Cebolla
 
-![g-day-5-bacalao-al-pil-pil](/images/g-day-5-bacalao-al-pil-pil.jpg)  
+![g-julen-bacalao-al-pil-pil](/images/g-julen-bacalao-al-pil-pil.jpg)  
 Second course: Bacalao al Pil-Pil

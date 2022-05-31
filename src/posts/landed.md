@@ -16,6 +16,6 @@ Landed safe & sound in San Sebastián.
 
 1st flight this morning was way too early and I won’t be doing that again!
 
-Hotel is nice and there is a supermarket near  by for provisions.
+Hotel is nice and there is a supermarket nearby for provisions.
 
 Heading out for dinner later. A late dinner as places don't open until 8pm here. 

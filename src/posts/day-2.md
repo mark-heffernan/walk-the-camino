@@ -1,7 +1,7 @@
 ---
 permalink: posts/{{ title | slug }}/index.html
 title: Day 2
-date: 2022-05-15T20:00:00+01:00
+date: 2022-05-15T19:00:00+01:00
 image: ''
 tags:
 - getaria
