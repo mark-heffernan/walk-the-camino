@@ -44,10 +44,10 @@ Very steep descent to Bilbao
 A view of Bilbao 
 
 ![g-day-7-view-of-bilbao-1](/images/g-day-7-view-of-bilbao-1.jpg)  
-A view of Bilbao surrounded by mountain ranges
+A view of Bilbao surrounded by its mountain ranges
 
 ![g-day-7-big-chimney-in-the-etxebarria-park](/images/g-day-7-big-chimney-in-the-etxebarria-park.jpg)  
 Big chimney in the Etxebarria Park, Bilbao 
 
 ![g-day-7-bilbao](/images/g-day-7-bilbao.jpg)  
-Bilbao, made it!
+Bilbao city, made it!
