@@ -56,6 +56,11 @@
       <script>mermaid.initialize({startOnLoad:true});</script>
     {# Add mermaid -- end #}
 
+    {% set goatcounter %}
+    {% include "goatcounter.js" %}
+  {% endset %}
+  {{ goatcounter | safe }}
+
 {% set panelbear %}
   {% include "panelbear.js" %}
 {% endset %}
