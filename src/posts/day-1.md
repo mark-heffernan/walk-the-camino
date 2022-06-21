@@ -17,7 +17,7 @@ description: First day of walking
 Today was my first day of walking, from San Sebastián to Orio.
 <!-- Excerpt End -->
 Weather was lovely, around 20-21c for a challenging walk up in the mountains, with the highest elevation point walked at 312m. Some tricky paths to negotiate, with some serious ankle breaker trails to manoeuvre. 
-Chuffed to get the 1st day of walking under my belt!
+Walked today on my own and chuffed to get the 1st day of walking under my belt!
 
 Distance walked approx. 14km.  
 
