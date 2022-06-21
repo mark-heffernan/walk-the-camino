@@ -19,6 +19,8 @@ Today was my first day of walking, from San Sebastián to Orio.
 Weather was lovely, around 20-21c for a challenging walk up in the mountains, with the highest elevation point walked at 312m. Some tricky paths to negotiate, with some serious ankle breaker trails to manoeuvre. 
 Chuffed to get the 1st day of walking under my belt!
 
+Distance walked approx. 14km.  
+
 ![g-day-1-first-sign](/images/g-day-1-first-sign.jpg)  
 Start of today’s walk, leaving San Sebastián 
 
@@ -30,6 +32,9 @@ Looking back up a tricky trail
 
 ![g-day-1-igeldo-trail-2](/images/g-day-1-igeldo-trail-2.jpg)  
 Same trail, looking down to what’s left to manoeuvre!
+
+![g-day-1-sign-for-orio](/images/g-day-1-sign-for-orio.jpg)  
+Sign for Orio, nearly there
 
 ![g-day-1-orio-1](/images/g-day-1-orio-1.jpg)  
 View of Orio, beautiful countryside
