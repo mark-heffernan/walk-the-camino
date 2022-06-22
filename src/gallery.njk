@@ -8,7 +8,7 @@ title: Gallery
 
 {% set length = collections.gallery.length %}
     {% if length != 0 %}
-        <h3>This is a gallery of all the photos taken on the big trip so far!</h3>
+        <h3>This is a gallery of all the photos taken on the big trip. This page may take a few seconds to load as I've uploaded each photo at full resolution.</h3>
         <div class="masonry">
             {% for image in collections.gallery %}
                 {% set i = loop.index %}
