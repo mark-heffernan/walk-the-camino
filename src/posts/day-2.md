@@ -18,7 +18,7 @@ Today was my second day of walking, from Orio to Getaria.
 <!-- Excerpt End --> 
 Weather was lovely but a lot hotter then yesterday with high of 29c. Not as challenging as the first day’s walk with the highest elevation point walked at 90m. 
 
-Walked today on my own and distance walked approx. 11km.   
+Walked on my own today and distance walked approx. 11km.   
 
 ![g-day-2-yesterdays-path-to-orio](/images/g-day-2-yesterdays-path-to-orio.jpg)  
 Yesterday's walk, from San Sebastián to Orio
