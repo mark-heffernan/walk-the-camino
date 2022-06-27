@@ -1,30 +1,66 @@
-# Walk The Camino blog
+My simple portfolio blog built using [11ty](https://www.11ty.dev/) and [tailwindcss](http://tailwindcss.com/) based on [11ty base blog](https://github.com/11ty/eleventy-base-blog) Now come with dark mode.
 
-My travel blog based on the Eleventy Duo theme, a minimal and beautiful Eleventy theme for personal blogs.
+### Shortcodes
 
-![demo site screenshot](./screenshot.png)
+**Responsive gallery** or single image using srcset via cloudinary, output webp format.
+]
 
-## [Live demo of theme](https://eleventyduo.netlify.app)
+```
+{% respimg path, alt, style %}
 
-## [GitHub Repo of theme](https://github.com/yinkakun/eleventy-duo)
+<!-- settings: -->
+eleventyConfig.srcsetWidths = [
+  { w: 400, v: 400 },
+  { w: 600, v: 600 },
+  { w: 800, v: 800 },
+  { w: 1200, v: 1200 },
+  { w: 1440, v: 1440 }
+```
 
-Big thanks to the developer [Yinkakun](https://github.com/yinkakun/) for developing this theme to be used for personal blogs. Check out their work at [yinkakun.vercel.app](https://yinkakun.vercel.app/). 
+**(figure) Image** with caption tag.
 
-## Issues
+```
+{% figure path, alt %}
+```
 
-On the first run of `yarn dev` an error is thrown up in the file `node_modules/postcss/package.json`. To fix this at line 14 I replaced 
+### Features
 
-`"./": "./"` 
+1. Convert external links to target \_blank and noreferrer for better SEO optimisation, using [markdown-it](https://www.npmjs.com/package/markdown-it) & [markdown-it-link-attributes](https://www.npmjs.com/package/markdown-it-link-attributes) plugins.
 
-with
+```
+/* Markdown Overrides */
+let markdownLibrary = markdownIt({
+  html: true,
+  breaks: true
+}).use(markdownitlinkatt, {
+  pattern: /^(?!(https:\/\/kailoon\.com|#)).*$/gm,
+  attrs: {
+    target: '_blank',
+    rel: 'noreferrer'
+  }
+})
+eleventyConfig.setLibrary('md', markdownLibrary)
+```
 
-`"./package.json": "./package.json"`
+2. Draft post enabled.
+3. Responsve images using srcset
+4. Cloudinary and Netlify ready.
+5. score 4 x 100 in Google lighthouse.
+6. CSSnano (minify) ready.
 
-## Disclaimer
+![](https://res.cloudinary.com/kailoon/image/upload/v1613408502/kailoon.com/Screenshot_on_2021-02-14_at_19-06-24.png)
 
-Although this repo is set to public, the repo is not for cloning. It's only set to public so I can use GitHub Issues for blog comments.
-If you'd like to use Yinkakun's Eleventy Duo theme for your own blog please clone this [repo](https://github.com/yinkakun/eleventy-duo). Thank you.  
+### Installation
 
-## License
+1. Clone or download this repo and run `npm install`.
+2. Remove unwated posts / works.
+3. Update the site info in `metadata.json`.
+4. Update the homepage info `in data.json`.
+5. Update `about.md`.
+6. Go nuts :)
 
-This project is licensed under the MIT License.
+Hope you like it ❤️
+
+### Update
+
+The current site is built with Nextjs and hosted on Vercel and can be found [here](https://github.com/kailoon/kailoon-next). However, I will continue to maintain this repo.
