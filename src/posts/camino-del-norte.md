@@ -1,9 +1,8 @@
 ---
 title: Camino del Norte
-description: 
-permalink: posts/{{ title | slug }}/index.html
+description: Testing pagescms
 date: 2022-04-06
-tags: [post, travel, camino, walking, image, sticky]
+permalink: posts/{{ title | slug }}/index.html
 ---
 ![camino-del-norte](/images/Camino-del-Norte-Farbig.png)
 <!-- Excerpt Start -->
