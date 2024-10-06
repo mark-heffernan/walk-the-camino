@@ -20,4 +20,7 @@ content:
     path: src/about.md
     fields: 
       - {name: title, label: Title, type: string }
+      - {name: layout, label: Layout, type: string }
+      - {name: who, label: Who, type: string}
+      - {name: image, label: Image, type: string}
       - {name: body, label: Body, type: rich-text }
