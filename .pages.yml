@@ -13,6 +13,11 @@ content:
         options: 
           format: yyyy-MM_dd
       - {name: permalink, label: Permalink, type: string }
+      - name: tags
+        label: Tags
+        type: select
+        options: 
+          values: [sticky, orio, camino, walking, san sebastián, post]
       - {name: body, label: Body, type: rich-text } 
   - name: pages
     label: About Page
