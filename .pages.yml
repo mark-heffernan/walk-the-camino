@@ -1,12 +1,4 @@
 media: src/images
-content: 
-  - name: pages
-    label: Pages
-    type: file
-    path: src/about.md
-    fields: 
-      - {name: title, label: Title, type: string }
-      - {name: body, label: Body, type: rich-text }
 content:
   - name: posts
     label: Posts
@@ -21,4 +13,11 @@ content:
         options: 
           format: yyyy-MM_dd
       - {name: permalink, label: Permalink, type: string }
+      - {name: body, label: Body, type: rich-text } 
+  - name: pages
+    label: About Page
+    type: file
+    path: src/about.md
+    fields: 
+      - {name: title, label: Title, type: string }
       - {name: body, label: Body, type: rich-text }
