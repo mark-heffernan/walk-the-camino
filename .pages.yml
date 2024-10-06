@@ -12,7 +12,7 @@ content:
         type: date
         options: 
           format: yyyy-MM_dd
-      - {name: permalink, label: Permalink, type: string }
+      - {name: permalink, label: Permalink, type: string, hidden: true }
       - name: tags
         label: Tags
         type: select
