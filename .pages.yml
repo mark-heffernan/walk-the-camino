@@ -21,6 +21,6 @@ content:
     fields: 
       - {name: title, label: Title, type: string }
       - {name: layout, label: Layout, type: string }
-      - {name: name, label: name, type: string}
+      - {name: name, label: Name, type: string}
       - {name: image, label: Image, type: string}
       - {name: body, label: Body, type: rich-text }
