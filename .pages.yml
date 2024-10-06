@@ -14,7 +14,7 @@ content:
         label: Date
         type: date
         options: 
-          format: yyyy-MM_dd
+          format: yyyy-MM-dd
       - {name: permalink, label: Permalink, type: string, hidden: true }
       - name: tags
         label: Tags
