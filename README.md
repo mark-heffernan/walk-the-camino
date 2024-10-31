@@ -22,7 +22,7 @@ with
 
 ## Disclaimer
 
-Although this repo is set to public, the repo is not for cloning. It's only set to public so I can use GitHub Issues for blog comments.
+Although this repo is set to public, the repo is not for cloning. It's only set to public so I can use GitHub Discussions for blog comments.
 If you'd like to use Yinkakun's Eleventy Duo theme for your own blog please clone this [repo](https://github.com/yinkakun/eleventy-duo). Thank you.  
 
 ## License
